@@ -1,3 +1,53 @@
 name: Haque, Md Anamul
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+# Site settings
+title: Haque, Md Anamul
+twitter_username: 
+name: Mohammad Anamul Haque
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/haquemdanamul
+ - title: Researchgate
+   url: 
+#Any buzzword skills you want to include
+skills:
+ - Groovy
+ - Spring MVC
+ - Spring Boot
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: 
+#Work experience is required
+roles:
+ - title: Research Co-ordinator
+   start: 2017
+   end: 2018
+   employer: IDDI
+   description: Developed an User-friendly Interface for Clinical Trial  <br/>.
+#Education is required
+education:
+ - level: MS #Bachelor of Science (B.Sc.)
+   date: 2016-2018
+   subject: Biostatistics
+   school: University of Hasselt, Belgium
+#This section is optional (as is the image link below)
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - https://rdrr.io/github/haquemdanamul/condpowerct/
+ - https://github.com/haquemdanamul/cpct
+#Stackoverflow flair is optional
+
+#Mobile apps section is optional
+apps:
+ - name: gsDesign with Conditional power for IDDI
+   #platform: Android
+   url: https://haquemdanamul.shinyapps.io/update_session/
+   description: Shiny App
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Statistical Packages</strong>: I am experienced in a variety of statistical packages like R, SAS, WinBugs. 
+   
