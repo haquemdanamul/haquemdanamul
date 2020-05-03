@@ -17,6 +17,7 @@ redirect_from:
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
   <li> PhD student in Statistical Sciences; <i> University of Padova </i>, 2018-present. </li>
+  <i>Thesis title </i>: Model based Predictions with Sample size Calculations for Competing Risks Data </font>
   <li> M.S. in Biostatistics; <i> University of Hasselt </i>, 2016-2018. </li> <font style="font-size:15px">
   <i>Thesis title </i>: User friendly Interface for gsDesign </font>
   <font style="font-size:17px"> <li> MS and B.S. in Statistics; <i> ShahJalal University </i>, 2013-2016.</li></font> <font style="font-size:15px">
@@ -39,7 +40,7 @@ redirect_from:
 
 <b style="font-size:18px">Awards</b>
 <ul style="list-style-type:circle;"> 
-<li> Achieved <a class="Distinction"; Hasselt, 2018. </li>
+<li> Achieved class="Distinction"; Hasselt, 2018. </li>
 </ul>
   
   
