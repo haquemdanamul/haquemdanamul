@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haque Md Anamul, Launches Site"
+title: "Anam's, Launches Site"
 date: 2020-05-02
 ---
 
