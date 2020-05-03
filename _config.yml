@@ -3,8 +3,8 @@
 ---
 layout: archive
 title: "About"
-permalink: /about/
-author_profile: true
+permalink: 
+author_profile: 
 redirect_from:
   - /about
 ---
