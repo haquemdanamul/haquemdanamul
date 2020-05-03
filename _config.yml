@@ -52,12 +52,11 @@ apps:
    description: Shiny App
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 
-intro: |
+intro: 
   I am a Biostatistician with 5 years experience working. I have primarily worked on a Financial sector, but have worked across a broad range of departments thereon: Cash management, General Banking and Credit management<br/><br/>
   I have strong statistical knowledge.<br/><br/>
   I have worked in smaller scale consultancy roles across Europe as well as a mix of startup experience and I am currently PhD student <a href="https://www.unipd.it" target="_blank">stat</a> where I am developing methods for clinical trial.
 
-
-additionalinfo: |
+additionalinfo: 
    <strong>Statistical Packages</strong>: I am experienced in a variety of statistical packages like R, SAS, WinBugs. 
    
