@@ -1,6 +1,6 @@
 
 # Site settings
-title: cv
+title: Haque Md Anamul
 
 # Build settings
 markdown: kramdown
@@ -11,6 +11,8 @@ primarylinks:
    url: https://github.com/haquemdanamul
  - title: Researchgate
    url: https://www.researchgate.net/profile/Mohammad_Anamul_Haque
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/mohammad-anamul-haque-40541060/
 #Any buzzword skills you want to include
 skills:
  - Clinical Trial and Advanced Clinical Trial
