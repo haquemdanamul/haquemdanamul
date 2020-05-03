@@ -1,6 +1,14 @@
 
 # Site settings
-title: Haque Md Anamul
+---
+layout: archive
+title: "Curriculum Vitae"
+permalink: /about/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 
 # Build settings
 markdown: kramdown
