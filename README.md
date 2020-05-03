@@ -13,7 +13,6 @@ redirect_from:
     a.typeA:hover {text-decoration: underline;}
 </style>
 
-<font style="font-size:17px">
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
   <li> PhD student in Statistical Sciences; <i> University of Padova </i>, 2018-present. </li>
