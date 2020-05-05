@@ -67,3 +67,5 @@ intro:
 additionalinfo: 
    <strong>Statistical Packages</strong>: I am experienced in a variety of statistical packages like R, SAS, WinBugs. 
    
+permalink: /cv/:year/:month/:day/:title
+
