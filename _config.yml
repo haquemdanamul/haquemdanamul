@@ -53,6 +53,40 @@ github:
  - https://github.com/haquemdanamul/cpct
 #Stackoverflow flair is optional
 
+# Site Author
+author:
+  name             : "Mohammad Anamul Haque"
+  avatar           : "me.jpg"
+  bio              : "PhD student @ University of Padova"
+  location         : "Padova, Italy"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            : "mohammadanamul.haque@studenti.unipd.it"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "haquemdanamul"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+
+
 #Mobile apps section is optional
 apps:
  - name: gsDesign with Conditional power for IDDI
@@ -67,5 +101,5 @@ intro:
 additionalinfo: 
    <strong>Statistical Packages</strong>: I am experienced in a variety of statistical packages like R, SAS, WinBugs. 
    
-permalink: /cv/:year/:month/:day/:title
+
 
