@@ -1,38 +1,22 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			
+<html lang="en">
 	
+	{% include head.html %}
+	
+	<body>
+		<div class="container">
 			
-			
-			
-		</head>
-		<body>
-			
-			
-			
-			<nav>
-	    		<ul>
-	        		
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">Curriculum Vitae</a></li>
-				<li><a href="/contact">Contact</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+			{% include header.html %}
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-				<li><a href="https://www.researchgate.net/profile/Mohammad_Anamul_Haque">Researchgate</a></li>
-	        		<li><a href="https://haquemdanamul.github.io/cpct/">GitHub</a></li>
-				<li><a href="https://linkedin.com/in/mohammad-anamul-haque-40541060">LinkedIn" </a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+			{% include footer.html %}
+		
+		</div> <!-- /container -->
+	
+	
+		{% include scripts.html %}
+	
+	</body>
+
+</html>
