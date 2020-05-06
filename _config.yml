@@ -1,2 +1,16 @@
-permalink: /notes/:year/:month/:day/:title
-markdown: kramdown
+# Site
+repository: haquemdanamul/haquemdanamul.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Mohammad Anamul HAque
+title: PhD student in Statistics, University of Padua
+email: mohammadanamul.haque@studenti.unipd.it
+
+
+
+# Social links
+facebook_username: Mohammadanamul.haque.908
+github_username:  haquemdanamul
+linkedin_username: mohammad-anamul-haque-40541060
+researchgate_username: Mohammad_Anamul_Haque
