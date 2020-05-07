@@ -4,7 +4,15 @@
 	<p><small></small></p>
 	</div>
 	<div class="col-sm-8" role="navigation">
-	<p class="nav nav-pills pull-right"><small><a href="/follow" title="VISIT ME">VISIT ME</a></small></p>
+	
+		{%- if site.facebook_username -%}
+          <li>
+            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-facebook" title="Facebook link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+		
 	</div>
 	</div>
 </div> <!-- /footer -->
