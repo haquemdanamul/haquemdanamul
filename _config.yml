@@ -7,15 +7,26 @@ name: Mohammad Anamul HAque
 title: PhD student in Statistics, University of Padua
 email: mohammadanamul.haque@studenti.unipd.it
 
-
-
 # Social links
 facebook_username: Mohammadanamul.haque.908
 github_username:  haquemdanamul
 linkedin_username: mohammad-anamul-haque-40541060
 researchgate_username: Mohammad_Anamul_Haque
 
+# About Section
+# about_title: About Me
+about_profile_image: images/mee.jpg
+about_content: | # this will include new lines to allow paragraphs
+  <p class="lead">I'm <span itemprop="name">Mohammad Anamul Haque</span> and currently PhD candidate at <span itemprop="affiliation">the <a href="https://www.stat.unipd.it/ricerca/mohammad-anamul-haque">University of Padova</a></span>.</p>
+	<p>I am specilized on <span itemprop="title">Statistics</span>, <span itemprop="title">Biostatistics</span>, <span itemprop="title">App designing</span> and <span itemprop="title">Consultancy.</span></p>
+	
+	<p>I'm interested to work in a <span itemprop="title"> clinical trial or as a consultant</span>. <a href="contact">write me</a> about describing project for collaboration.</p>
+	
+# Footer
+footer_show_references: false
 
+# Build settings
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -23,3 +34,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+
