@@ -3,15 +3,16 @@ repository: haquemdanamul/haquemdanamul.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Mohammad Anamul HAque
-title: PhD student in Statistics, University of Padua
-email: mohammadanamul.haque@studenti.unipd.it
+name: Dr. Mohammad Anamul Haque 
+title: Faculty member, Shahjalal University of Science & Technology, Bangladesh
+email: mohammadanamul.haque@studenti.unipd.it; haque-sta@sust.edu
 
 # Social links
 facebook_username: Mohammadanamul.haque.908
 github_username:  haquemdanamul
 linkedin_username: mohammad-anamul-haque-40541060
 researchgate_username: Mohammad_Anamul_Haque
+orcid_id: https://orcid.org/0000-0003-4461-1594
 
 # About Section
 # about_title: About Me
